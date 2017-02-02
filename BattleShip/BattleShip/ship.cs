@@ -8,7 +8,8 @@ namespace BattleShip
 {
     class ship
     {
-        public string Name { get; set; }
+        public string ShipName { get; set; }
+        
         
 
     }
